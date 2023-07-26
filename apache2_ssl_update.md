@@ -34,6 +34,12 @@
 
 4. Reload Apache2 service
 
+   Check status of service
+
+        service apache2 status
+
+   Restart service
+
         service apache2 reload
 
     Check status of service
